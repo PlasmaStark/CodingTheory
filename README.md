@@ -1,2 +1,2 @@
 # CodingTheory
-The following are algorithms from our course "Coding Theory &amp; Applications", plus some I wrote to solve exercises from the book "Codes, Cryptology and Curves with Computer Algebra" (yes, that was a tad overkill).
+The following are algorithms from our course _"Coding Theory & Applications"_, plus some I wrote to solve exercises from the book _"Codes, Cryptology and Curves with Computer Algebra"_ (yes, that was a tad overkill).
