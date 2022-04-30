@@ -12,5 +12,7 @@ Most of these are algorithms I wrote myself in order to solve exercises from the
 ## (1) ISBN checker - examples
 
 
+It checks for errors caused by two adjacent values being switched and only on 10-digits ISBN codes. These were the assumptions the textbook asked for. It can be indeed be generalized to account for **more** errors.
+
 <img width="269" alt="ISBN" src="https://user-images.githubusercontent.com/64229723/166115641-70708c58-482e-4bc6-8907-fabe3a9c47b6.png">
 <img width="598" alt="ISBN2" src="https://user-images.githubusercontent.com/64229723/166115638-8960df44-9893-46c7-a145-b0b5893388f7.png">
