@@ -9,7 +9,7 @@ Most of these are algorithms I wrote myself in order to solve exercises from the
 
 
 
-# ISBN checker - example 
+## (1) ISBN checker - example 
 
 ![immagine](https://user-images.githubusercontent.com/64229723/166115342-5241d83c-379e-4c66-a0ac-1649355feadf.png)
 
