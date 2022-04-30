@@ -9,7 +9,8 @@ Most of these are algorithms I wrote myself in order to solve exercises from the
 
 
 
-## (1) ISBN checker - example 
+## (1) ISBN checker - examples
 
-![immagine](https://user-images.githubusercontent.com/64229723/166115342-5241d83c-379e-4c66-a0ac-1649355feadf.png)
 
+<img width="598" alt="ISBN2" src="https://user-images.githubusercontent.com/64229723/166115638-8960df44-9893-46c7-a145-b0b5893388f7.png">
+<img width="269" alt="ISBN" src="https://user-images.githubusercontent.com/64229723/166115641-70708c58-482e-4bc6-8907-fabe3a9c47b6.png">
